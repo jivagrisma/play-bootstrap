@@ -2610,4 +2610,7 @@ p {
     padding: 10px 20px;
   }
 }
-/*# sourceMappingURL=ud-styles.css.map */
+/*# sourceMappingURL=ud-styles.css.map *//* Estilos para el efecto de escritura */
+.typewrite > .wrap {
+  border-right: 0.08em solid #fff;
+}
